@@ -1,0 +1,51 @@
+body {
+    color: azure;
+    background-image: url('https://i.pinimg.com/originals/da/e4/f0/dae4f0d0c1d30f0f2b40a7d1dcb9d27d.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-size: 65px;
+    margin-bottom: 0px;
+    padding: 7px;
+}
+p {
+    text-align: center;
+    margin-top: 0px;
+}
+th {
+    padding:16px;
+    text-align: center;
+}
+td {
+    padding:2px;
+}
+.white {
+    background-color: white;
+    color: rgb(27, 27, 27);
+}
+div {
+    text-align: center;
+}
+.back {
+    background-image: linear-gradient(#ff781f, #0097fce1);
+    width: 600px;
+    height:fit-content;
+    padding: 0px;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+h4 {
+    font-size: 20px;
+}
+h2 {
+    margin-top:40px
+}
